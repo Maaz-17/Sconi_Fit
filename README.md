@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sonic - SPEAK IT, LOG IT
 
 **Focus on your form, not your phone.**
@@ -186,10 +185,4 @@ That's it! Open your browser and start talking to your workout tracker. 🎉
 5. Push to your branch (`git push origin feature/awesome-feature`)
 6. Open a Pull Request and tell us what you built!
 
-## License
 
-This project is MIT licensed. Basically, do what you want with it.
-=======
-# Fitness
->>>>>>> d4710cd4edf9275fe98e4bdf25c3318c20650b55
-# Sconi_Fit

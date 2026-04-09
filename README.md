@@ -180,5 +180,3 @@ That's it! Open your browser and start talking to your workout tracker. 🎉
 4. Commit with a clear message (`git commit -m 'feat: add awesome feature'`)
 5. Push to your branch (`git push origin feature/awesome-feature`)
 6. Open a Pull Request and tell us what you built!
-
-
